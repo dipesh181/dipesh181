@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi 👋 I'm Dipesh Prajapati
 
-<!--
-**dipesh181/dipesh181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Learning Web Development and Programming  
+🛠 Skills: HTML, C, C++ (Basics)
 
-Here are some ideas to get you started:
+📂 Projects
+- HTML Basics (structure, paragraphs, links, images, lists, tables, forms)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+- CSS
+- C Programming
+
+🚀 Beginner Developer | Always Learning
