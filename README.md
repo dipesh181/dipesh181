@@ -1,4 +1,4 @@
-Hi<br><br>I'm Dipesh Prajapati<br><br>Computer Science Student<br><br>Learning Web Development and<br><br>Programming<br><br>Skills: HTML, C, C++ (Basics)<br><br>Projects<br><br>HTML Basics (structure, paragraphs, links, images, lists, tables, forms)<br><br>Currently learning<br><br>CSS<br><br>C Programming<br><br>Beginner Developer<br><br>Always Learning
+Hi<br><br>I'm Dipesh Prajapati Computer Science Student<br>Learning Web Development and<br><br>Programming<br><br>Skills: HTML, C, C++ (Basics)<br><br>Projects<br><br>HTML Basics (structure, paragraphs, links, images, lists, tables, forms)<br><br>Currently learning<br><br>CSS<br><br>C Programming<br><br>Beginner Developer<br><br>Always Learning
 
 
 ## 🌐 Socials:
