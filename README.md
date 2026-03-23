@@ -1,4 +1,4 @@
- # 💫 About Me:
+ #  About Me:
 💻 Dipesh Prajapati<br>🎓 Computer Science Student | 🚀 Beginner Developer<br>Passionate Computer Science student focused on building strong programming foundations and growing in Web Development & Software Development.<br>🛠️ Technical Skills<br>• 🌐 HTML5<br>• 🎨 CSS3 (Currently Learning)<br>• 💻 C Programming<br>• ⚙️ C++ Programming (OOP Basics, Classes, Objects)<br>• 📊 SSAD (System Study & Analysis Design – Basics)<br>📂 Projects<br>• ✅ HTML Basics (Structure, Paragraphs, Links, Images, Lists, Tables, Forms)<br>• 🔁 Basic C Programs (Loops, Functions, Arrays)<br>• 🧱 C++ Programs (Class & Object Based Programs)<br>📚 Currently Learning<br>• 🎨 CSS Styling & Responsive Design<br>• 💻 Advanced C Programming<br>• ⚙️ Object-Oriented Programming in C++<br>• 📊 SSAD Concepts<br>🌱 About Me<br>Beginner Developer with a strong interest in programming logic & problem solving 💡<br>Focused on improving coding skills daily and building real-world projects 🛠️<br>Always learning. Always improving. 🚀
 
 
